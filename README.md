@@ -5,12 +5,6 @@ This is the complete list of all the Major WebD Projects I made.
 |  #  | Project                                                     | Live Demo                                              |
 | :-: | ----------------------------------------------------------- | ------------------------------------------------------ |
 | 01  | [SkyNow](https://github.com/amit712singhal/Sky-Now)         | [Live Demo](https://amit712singhal.github.io/Sky-Now/) |
-| 02  | [PortFolio](https://github.com/amit712singhal/My-Portfolio) | [Live Demo]()                                          |
-| 03  | [ChatBOT](https://github.com/amit712singhal/Chat-BOT)       | [Live Demo]()                                          |
-
-<!--
-|   | []() | [Live Demo]() |
--->
 
 ## License
 
